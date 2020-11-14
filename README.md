@@ -46,12 +46,54 @@
 [<img align="left" alt="Postman" width="30px" src="https://ww1.prweb.com/prfiles/2018/10/05/16050123/postman-logo-vert-2018.png"/>][postman]
 [<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
 
+<br/>
+<br/>
 
-  
+### Some of my work:
 
+#### Web Engineering 
+Project where we used MS architecture to implement a system that send message to vehicles about the state of crosswalk. That state could be about the traffic lights and/or about pedestrians that were close to that crosswalk: [SPWSAPP](https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi)
 
+Technology used:
 
+[<img align="left" alt="VisualParadigm" width="30px" src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png"/>][visualparadigm]
+[<img align="left" alt="Uml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" />][uml]
+[<img align="left" alt="React" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
+[<img align="left" alt="React-Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />][react-native]
+[<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+[<img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 
+<br/>
+
+#### Web Applications Development 
+Project where we used two servers (one for Front-end and other for Backend) to develop a new social network for Software Engineering students. That social network should allows students to create accounts, create groups (publics and privates), make posts, comments and upload and download of files: [ISN](https://github.com/PedroFreitas90/DAW_Project)
+
+Technology used:
+
+[<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+ [<img align="left" alt="Javascript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+[<img align="left" alt="Postman" width="30px" src="https://ww1.prweb.com/prfiles/2018/10/05/16050123/postman-logo-vert-2018.png"/>][postman]
+[<img align="left" alt="html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
+[<img align="left" alt="Bootstrap" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" />][bootstrap]
+
+<br/>
+
+#### Software Architectures
+Project with 2 different stages:
+* **First** - Develop a system in Java that should show good Architecture and Design patterns. This system should be just like a trading platform.
+* **Second** - Analyse other group system and do some Refactoring.
+
+[Repository](https://github.com/PedroFreitas90/ArquiteturaSoftware)
+
+Technology used:
+
+[<img align="left" alt="VisualParadigm" width="30px" src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png"/>][visualparadigm]
+[<img align="left" alt="Uml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" />][uml]
+[<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
+[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>][java]
 
 
 <!--
@@ -96,7 +138,10 @@ Here are some ideas to get you started:
 [bootstrap]: https://getbootstrap.com/
 [github]: https://github.com
 [react]: https://reactjs.org/
+[react-native]: https://reactnative.dev/
 [linux]: https://www.linux.org/
 [postman]: https://www.postman.com/ 
 [vue]: https://vuejs.org/
 [git]: https://git-scm.com/
+
+[engWeb]: https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi
