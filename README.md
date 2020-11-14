@@ -68,7 +68,7 @@ Technology used:
 <br/>
 
 #### Web Applications Development 
-Project where we used two servers (one for Front-end and other for Backend) to develop a new social network for Software Engineering students. That social network should allows students to create accounts, create groups (publics and privates), make posts, comments and upload and download of files: [ISN](https://github.com/PedroFreitas90/DAW_Project)
+Project where we used two servers (one for Front-end and other for Backend) to develop a new social network for Software  Engeneering students. That social network should allows students to create accounts, create groups (publics and privates), make posts, comments and upload and download of files: [ISN](https://github.com/PedroFreitas90/DAW_Project)
 
 Technology used:
 
