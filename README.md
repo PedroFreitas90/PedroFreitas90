@@ -17,8 +17,8 @@
 <br/>
 
 ### How to reach me:
-<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> pedrofreitas1410@gmail.com
-
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 <br/>
 
 ### Languages and Tools:
@@ -121,6 +121,7 @@ Here are some ideas to get you started:
 [github]: https://github.com/PedroFreitas90
 [linkedin]: https://www.linkedin.com/in/pedrofreitas90/
 [facebook]: https://www.facebook.com/pedrooofreitas90/
+[gmail]: pedrofreitas1410@gmail.com
 
 [python]: https://www.python.org/
 [java]: https://java.com/en/
