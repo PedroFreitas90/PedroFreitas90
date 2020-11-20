@@ -134,7 +134,7 @@ Here are some ideas to get you started:
 [visualparadigm]: https://www.visual-paradigm.com/ "Visual Paradigm"
 [docker]: https://www.docker.com/ "Docker"
 [uml]: https://www.uml.org/ "UML"
-[flask]: https://flask.palletsprojects.com/en/1.1.x/ "Flask
+[flask]: https://flask.palletsprojects.com/en/1.1.x/ "Flask"
 [html]: https://html.spec.whatwg.org/ "HTML"
 [bootstrap]: https://getbootstrap.com/ "Bootstrap"
 [github]: https://github.com "Github"
@@ -144,6 +144,5 @@ Here are some ideas to get you started:
 [postman]: https://www.postman.com/ "Postman" 
 [vue]: https://vuejs.org/ "Vue"
 [git]: https://git-scm.com/ "Git"
-[click]: "All these are clickable"
 
 [engWeb]: https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi 
