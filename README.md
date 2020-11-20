@@ -7,7 +7,7 @@
 
 <br/>
 
-### Find me here:
+### Find me here :point_down: :
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -16,9 +16,9 @@
 <br/>
 <br/>
 
-### How to reach me:
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+### How to reach me :mailbox_with_mail: :
+<img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> pedrofreitas1410@gmail.com
+
 <br/>
 
 ### Languages and Tools:
@@ -123,26 +123,27 @@ Here are some ideas to get you started:
 [facebook]: https://www.facebook.com/pedrooofreitas90/
 [gmail]: pedrofreitas1410@gmail.com
 
-[python]: https://www.python.org/
-[java]: https://java.com/en/
-[haskell]: https://www.haskell.org/
-[c]:https://www.iso.org/standard/74528.html
-[javascript]: https://www.javascript.com/
-[mongo]: https://www.mongodb.com/
-[mysql]: https://www.mysql.com/
-[nodejs]: https://nodejs.org/en/
-[visualparadigm]: https://www.visual-paradigm.com/
-[docker]: https://www.docker.com/
-[uml]: https://www.uml.org/
-[flask]: https://flask.palletsprojects.com/en/1.1.x/
-[html]: https://html.spec.whatwg.org/
-[bootstrap]: https://getbootstrap.com/
-[github]: https://github.com
-[react]: https://reactjs.org/
-[react-native]: https://reactnative.dev/
-[linux]: https://www.linux.org/
-[postman]: https://www.postman.com/ 
-[vue]: https://vuejs.org/
-[git]: https://git-scm.com/
+[python]: https://www.python.org/ "Python"
+[java]: https://java.com/en/ "Java"
+[haskell]: https://www.haskell.org/ "Haskell"
+[c]:https://www.iso.org/standard/74528.html "C"
+[javascript]: https://www.javascript.com/ "Javascript"
+[mongo]: https://www.mongodb.com/ "MongoDB"
+[mysql]: https://www.mysql.com/ "MySQL"
+[nodejs]: https://nodejs.org/en/ "NodeJS"
+[visualparadigm]: https://www.visual-paradigm.com/ "Visual Paradigm"
+[docker]: https://www.docker.com/ "Docker"
+[uml]: https://www.uml.org/ "UML"
+[flask]: https://flask.palletsprojects.com/en/1.1.x/ "Flask
+[html]: https://html.spec.whatwg.org/ "HTML"
+[bootstrap]: https://getbootstrap.com/ "Bootstrap"
+[github]: https://github.com "Github"
+[react]: https://reactjs.org/ "React"
+[react-native]: https://reactnative.dev/ "React-Native"
+[linux]: https://www.linux.org/ "Linux"
+[postman]: https://www.postman.com/ "Postman" 
+[vue]: https://vuejs.org/ "Vue"
+[git]: https://git-scm.com/ "Git"
+[click]: "All these are clickable"
 
-[engWeb]: https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi
+[engWeb]: https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi 
