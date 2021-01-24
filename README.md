@@ -3,7 +3,7 @@
 
 👋 I'm Pedro and I'm a Software Engeneering Student at University of Minho who is currently on the fifth grade (second year of master's degree).
 
-🔭  I’m currently working on my master's thesis: **Certification of the cryptographic component of the passwords manager - Keepass**.
+🔭  I’m currently working on my master's thesis: **Certification of the cryptographic component of the passwords manager - Keepass** , inside of **PassCert Project**.
 
 <br/>
 
