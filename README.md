@@ -3,7 +3,7 @@
 
 👋 I'm Pedro and I'm a Software Engeneering Student at University of Minho who is currently on the fifth grade (second year of master's degree).
 
-🔭  I’m currently working on my master's thesis: **Certification of the cryptographic component of the passwords manager - Keepass** , inside of **PassCert Project**.
+🔭  I’m currently working on my master's thesis: **Certification of the cryptographic component of the passwords manager - Keepass** , inside of [PassCert Project](https://passcert-project.github.io/ "PassCert Project").
 
 <br/>
 
@@ -151,4 +151,6 @@ Here are some ideas to get you started:
 [vue]: https://vuejs.org/ "Vue"
 [git]: https://git-scm.com/ "Git"
 
-[engWeb]: https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi 
+[engWeb]: https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi
+
+[PassCert]: https://passcert-project.github.io/ "PassCert Project"
