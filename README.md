@@ -52,7 +52,14 @@
 ### Some of my work:
 
 ------
+#### Explica 
+Project developed in the SEI (Computer Science Engineering Week) Hackathon. It is a web platform for primary school students and volunteer tutors. The student makes a help request on the platform indicating his year and the subject in question, and is presented with a list of tutors who can respond to his needs. Then the student chooses a tutor and a private chat is created between them where they can agree everything they need for the tutoring session.
 
+Technology:
+[<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
+[<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
+
+------
 #### Web Engineering 
 Project where we used MS architecture to implement a system that send message to vehicles about the state of crosswalk. That state could be about the traffic lights and/or about pedestrians that were close to that crosswalk: [SPWSAPP](https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi)
 
