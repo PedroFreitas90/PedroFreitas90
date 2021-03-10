@@ -61,7 +61,10 @@ Technology used :
 [<img align="left" alt="NodeJS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][nodejs]
 [<img align="left" alt="MongoDB" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][mongo]
 
+<br/>
+
 ------
+
 #### Web Engineering 
 Project where we used MS architecture to implement a system that send message to vehicles about the state of crosswalk. That state could be about the traffic lights and/or about pedestrians that were close to that crosswalk: [SPWSAPP](https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi)
 
