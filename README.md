@@ -97,22 +97,6 @@ Technology used:
 
 <br/>
 
-------
-
-#### Software Architectures
-Project with 2 different stages:
-* **First** - Develop a system in Java that should show good Architecture and Design patterns. This system should be just like a trading platform.
-* **Second** - Analyse other group system and do some Refactoring.
-
-[Repository](https://github.com/PedroFreitas90/ArquiteturaSoftware)
-
-Technology used:
-
-[<img align="left" alt="VisualParadigm" width="30px" src="https://forums.visual-paradigm.com/uploads/default/original/2X/6/6d10753eda994cb828d6d182304d2c9929ae85c1.png"/>][visualparadigm]
-[<img align="left" alt="Uml" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/220px-UML_logo.svg.png" />][uml]
-[<img align="left" alt="MySql" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>][java]
-
 
 <!--
 **PedroFreitas90/PedroFreitas90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
