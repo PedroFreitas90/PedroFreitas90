@@ -45,6 +45,8 @@
 [<img align="left" alt="Linux" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />][linux]
 [<img align="left" alt="Postman" width="30px" src="https://ww1.prweb.com/prfiles/2018/10/05/16050123/postman-logo-vert-2018.png"/>][postman]
 [<img align="left" alt="Vue" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />][vue]
+[<img align="left" alt="Kubernetes" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />][kubernetes]
+[<img align="left" alt="Helm Charts" width="30px" src="https://helm.sh/img/helm.svg" />][helm]
 
 <br/>
 <br/>
@@ -145,6 +147,8 @@ Here are some ideas to get you started:
 [postman]: https://www.postman.com/ "Postman" 
 [vue]: https://vuejs.org/ "Vue"
 [git]: https://git-scm.com/ "Git"
+[helm]: https://helm.sh/ "Helm Charts"
+[kubernetes]:https://kubernetes.io/ "Kubernetes"
 
 [engWeb]: https://github.com/PedroFreitas90/EngenhariaWeb/tree/crosswalksApi
 
