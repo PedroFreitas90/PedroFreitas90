@@ -1,11 +1,7 @@
 ### Hi there!
 
 
-👋 I'm Pedro and I'm a Software Engineering at Mobileum.
-
-#### What I do?
-I've joined [Mobileum](https://www.mobileum.com/) in December 2021 and I've working with cloud technologies in addition to microservices development. Kubernetes, Docker, Helm and Java base technologies like Maven and Quarkus are my daily routine. 😄
- <br/>
+👋 I'm Pedro and I'm a Software Engineering at Feedzai.
 
 ### Find me here :point_down: :
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
