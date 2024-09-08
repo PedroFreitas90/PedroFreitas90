@@ -3,7 +3,7 @@
 
 👋 I'm Pedro and I'm a Software Engineering at Feedzai.
 
-### Find me here :point_down: :
+### Find me here :point_down:
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -12,7 +12,7 @@
 <br/>
 <br/>
 
-### How to reach me :mailbox_with_mail: :
+### How to reach me :mailbox_with_mail:
 <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> pedrofreitas1410@gmail.com
 
 <br/>
